@@ -1,0 +1,15 @@
+Main Heading
+    font-family: Barlow;
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: 500;
+
+Inner Text
+font-family: Montserrat;
+    font-size: 17px;
+    line-height: 24px;
+
+Redirecting Buttons
+    font-family: Barlow;
+    font-size: 16px;
+    font-weight: 600;
